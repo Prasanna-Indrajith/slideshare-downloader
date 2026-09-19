@@ -1,0 +1,23 @@
+# .gitignore
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+
+# Byte-code and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Environment variables & secrets
+.env
+
+# IDE configurations
+.vscode/
+.idea/
